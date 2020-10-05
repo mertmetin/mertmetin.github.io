@@ -1,0 +1,54 @@
+
+			<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"
+			xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+			xmlns:xhtml="http://www.w3.org/1999/xhtml">
+			<url>
+				<loc>https://</loc>
+			</url>
+		
+					<url>
+						<loc>https://en/page-13.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/page-13.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/index.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/index.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/download.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/download.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/docs.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/docs.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/Folder-1/Folder-1/spotlight.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/Folder-1/Folder-1/spotlight.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/Folder-1/Folder-1/image.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/Folder-1/Folder-1/image.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/Folder-1/Folder-1/carousel.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/Folder-1/Folder-1/carousel.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/Folder-1/Folder-1/page-section.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/Folder-1/Folder-1/page-section.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url>
+					<url>
+						<loc>https://en/widgets.html</loc>
+						<xhtml:link rel='alternate' hreflang='en' href='https://en/widgets.html'/>
+<lastmod>16:10:44 Oct-5-2020</lastmod>
+</url></urlset>

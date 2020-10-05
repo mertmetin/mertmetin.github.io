@@ -1,0 +1,92 @@
+[
+    {
+        "label": "page-13",
+        "path": "",
+        "page": "page-13.json",
+        "content": "",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/page-13.html",
+        "docs": ""
+    },
+    {
+        "label": "index",
+        "path": "",
+        "page": "page-1.json",
+        "content": "Build fast,responsive, multilingual sites with Glot\nGLOT is a markup language for generating websites in terms of objects and text. The language allows for generative rules that define the rendering of object instances and localized text. The rules are written in JavaScript Object Notation (JSON). The language was designed for the building of modular and multilingual webpages.\n\n\n\n\n\nGet Started\nDownload\n\nInstallation\nInstall Bootstrap\u2019s source Sass and JavaScript files via npm, Composer, or Meteor.\nFor the first time ever, Bootstrap has its own open source SVG icon library, designed to work best with our components and documentation.Bootstrap Icons are designed to work best with Bootstrap components, but they\u2019ll ywork in any project. They\u2019re SVGs, so they scale quickly and easily, can be implemented in several ways, and can be styled with CSS.\n\nDownload\n\nGlot Widgets\nFor the first time ever, Bootstrap has its own open source SVG icon library, designed to work best with our components and documentation.Bootstrap Icons are designed to work best with Bootstrap components, but they\u2019ll work in any project. They\u2019re SVGs, so they scale quickly and easily, can be implemented in several ways, and can be styled with CSS.\n\nDownload\n\n\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/index.html",
+        "docs": ""
+    },
+    {
+        "label": "download",
+        "path": "",
+        "page": "page-12.json",
+        "content": "\n\n\nDownload\nDownload Glot to create your next website project.Using Composer to Install Glot and Manage Dependencies\n\nComposer can be used to manage Glot and all dependencies (modules, themes, libraries). Make sure you have composer installed on your local machine before executing any Composer commands.\u00a0\u00a0\n\ncomposer require glot\/glot\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/download.html",
+        "docs": ""
+    },
+    {
+        "label": "docs",
+        "path": "",
+        "page": "page-5.json",
+        "content": "\n\n\nIntroduction\nGLOT is a markup language for generating websites in terms of objects and text. The language allows for generative rules that define the rendering of object instances and localized text. The rules are written in JavaScript Object Notation (JSON). The language was designed for the building of modular and multilingual webpages.Comparison to React and AngularJS\n\nGLOT is complementary to other web frameworks, such as React and AngularJS, because it is not opinionated regarding what HTML and JS is generated with it. The language does not rely on a compilation step since it is a straightforward set of compositional and parametric rules. A piece of GLOT code can be understood as a generative, parametric model of a webpage.The GLOT language\n\nA GLOT elementis defined as an unordered set of name\/value pairs of the form\u00a0 {\"name\": value, \"name\": value, ...} , such that each pair is either:\n\n\n\n\nA valid combination of HTML attribute\/value pair. E.g. \"type\": \"checkbox\"; or\nThe name tag and a value equal to a valid HTML tag. E.g. \"tag\": \"input\"; or\nThe name widget and a value that matches the name of a widget package available to the GLOT rendered. E.g. \"widget\": \"Navbar\"; or\nThe name params and a value set to a JSON object with its own set of name\/value pairs. The valid name\/value pairs of params are widget-dependent, and therefore are only meaningful if a widget value is also given; or\nThe name data and a value equal to a GLOT element, a plain string, or an array of GLOT elements and\/or strings.\nThe tag property name defines the type of rendered HTML element while the\u00a0 data property name defines the\u00a0 contents of the element and the inclusion relation between elements.\nAll property names are optional and their values default to unset if not given, with one exception: the property name tag defaults to div if not given.\nIn other words, if not present, the name\/value pair \"tag\": \"div\" is assumed to be implicitly given.By definition, the GLOT markup language is a strict superset of the HTML markup language and can represent generative rules for any possible HTML webpage.\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/docs.html",
+        "docs": ""
+    },
+    {
+        "label": "widgets\/spotlight",
+        "path": "widgets",
+        "page": "page-10.json",
+        "content": "\n\n\nSpotlight\nA slideshow component for cycling through elements\u2014images or slides of text\u2014like a carousel.\u00a0\u00a0\n\n\nA general text section title\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLink Label\n\n\n\n\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/widgets\/spotlight.html",
+        "docs": ""
+    },
+    {
+        "label": "widgets\/image",
+        "path": "widgets",
+        "page": "page-7.json",
+        "content": "\n\n\nImage\nA widget that displays an image.\n\nYou can either upload an image or put an URL to show it.\nThe following image formats are supported: JPEG, PNG, GIF, Animated GIF, WebP, Animated WebP, BMP, and WBMP.\u00a0\u00a0\n\n\n\n\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/widgets\/image.html",
+        "docs": ""
+    },
+    {
+        "label": "widgets\/carousel",
+        "path": "widgets",
+        "page": "page-8.json",
+        "content": "\n\n\nCarousel\nA slideshow component for cycling through elements\u2014images or slides of text\u2014like a carousel.\u00a0\u00a0\n\n\n\nFirst slide label\nNulla vitae elit libero, a pharetra augue mollis interdum.\n\n\nFirst slide label\nNulla vitae elit libero, a pharetra augue mollis interdum.\n\n\nFirst slide label\nNulla vitae elit libero, a pharetra augue mollis interdum.\n\n\nPrevious\n\nNext\n\n\n\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/widgets\/carousel.html",
+        "docs": ""
+    },
+    {
+        "label": "widgets\/page-section",
+        "path": "widgets",
+        "page": "page-11.json",
+        "content": "\n\n\nPage Section\nA slideshow component for cycling through elements\u2014images or slides of text\u2014like a carousel.\u00a0\u00a0\n\n\nSection Title (H2)\nTest\nSubsection Title (H3)\n\nContrary to popular belief, Lorem Ipsum is not simply random text.  Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.\u00a0\nSections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nSubsection Title (H3)\n\nContrary to popular belief, Lorem Ipsum is not simply random text.  Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.\u00a0\nSections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/widgets\/page-section.html",
+        "docs": ""
+    },
+    {
+        "label": "widgets",
+        "path": "",
+        "page": "page-6.json",
+        "content": "\n\n\nWidgets\nGLOT is a markup language for generating websites in terms of objects and text. The language allows for generative rules that define the rendering of object instances and localized text. The rules are written in JavaScript Object Notation (JSON). The language was designed for the building of modular and multilingual webpages.\n",
+        "title": "",
+        "img": "",
+        "href": "https:\/\/\/en\/widgets.html",
+        "docs": ""
+    }
+]
